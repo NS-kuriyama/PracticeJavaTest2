@@ -5,4 +5,5 @@ public class Airplane {
 		System.out.println("飛行します");
 	}
 
+
 }
